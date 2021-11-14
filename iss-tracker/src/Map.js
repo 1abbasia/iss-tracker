@@ -1,9 +1,18 @@
 import React from "react";
 
-const Map = () => {
-  return (
-    <div>this is the map</div>
-  )
+class Map extends React.Component {
+
+  state = {
+
+  }
+
+  render() {
+    return (
+      <div>
+        this is the map
+      </div>
+    )
+  }
 }
 
 export default Map;
