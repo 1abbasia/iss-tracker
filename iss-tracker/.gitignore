@@ -21,5 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 
 APikey=AIzaSyBbKexMty5vyh9MsX9iYccTDKBU53NRC6U for iss-tracker app
+=======
+>>>>>>> bd4be3bbfe5d29d90c506c8e153807a9de0024ad
